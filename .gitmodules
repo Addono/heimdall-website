@@ -1,0 +1,3 @@
+[submodule "themes/hugo-hero-theme"]
+	path = themes/hugo-hero-theme
+	url = https://gitlab.com/heimdall-surveillance/hero-theme.git
