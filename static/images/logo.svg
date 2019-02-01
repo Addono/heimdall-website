@@ -1,11 +1,102 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="217px" height="29px" viewBox="0 0 217 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
-    <title>logo</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="logo">
-        </g>
-    </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="161.18016"
+   height="26.403999"
+   viewBox="0 0 161.18016 26.403999"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="logo.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1582"
+     inkscape:window-height="1080"
+     id="namedview14"
+     showgrid="false"
+     inkscape:measure-start="0,0"
+     inkscape:measure-end="0,0"
+     inkscape:zoom="3.124424"
+     inkscape:cx="59.918728"
+     inkscape:cy="2.519702"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg12" />
+  <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title2">logo</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <defs
+     id="defs6" />
+  <g
+     aria-label="Heimdall"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     id="text3728">
+    <path
+       d="m 17.970666,25.76 c 0,0.337334 -0.276,0.613334 -0.582666,0.613334 h -3.618667 c -0.306667,0 -0.582667,-0.276 -0.582667,-0.613334 V 15.578667 H 4.7839998 V 25.76 c 0,0.337334 -0.2453333,0.613334 -0.5826666,0.613334 H 0.61333323 C 0.2759999,26.373334 -9.5367432e-8,26.097334 -9.5367432e-8,25.76 V 0.73600072 C -9.5367432e-8,0.33733406 0.2759999,7.3432922e-7 0.61333323,7.3432922e-7 H 4.2013332 C 4.5386665,7.3432922e-7 4.7839998,0.33733406 4.7839998,0.73600072 V 10.794667 H 13.186666 V 0.73600072 c 0,-0.39866666 0.276,-0.73599998567078 0.582667,-0.73599998567078 H 17.388 c 0.306666,0 0.582666,0.33733332567078 0.582666,0.73599998567078 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.66666603px;font-family:Farray;-inkscape-font-specification:Farray;letter-spacing:0px"
+       id="path3764"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 40.23754,25.790667 c 0,0.337333 -0.276,0.613333 -0.582667,0.613333 H 22.880207 c -0.337333,0 -0.613333,-0.276 -0.613333,-0.613333 V 0.64400072 c 0,-0.33733333 0.276,-0.61333332 0.613333,-0.61333332 H 39.04154 c 0.337333,0 0.613333,0.27599999 0.613333,0.61333332 V 4.2320006 c 0,0.3373334 -0.276,0.5826667 -0.613333,0.5826667 H 27.050874 v 6.0106667 h 11.377333 c 0.337333,0 0.613333,0.245333 0.613333,0.582666 v 3.588 c 0,0.337334 -0.276,0.613334 -0.613333,0.613334 H 27.050874 v 5.98 h 12.603999 c 0.306667,0 0.582667,0.276 0.582667,0.613333 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.66666603px;font-family:Farray;-inkscape-font-specification:Farray;letter-spacing:0px"
+       id="path3766"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 53.188458,4.7840006 V 21.558667 h 4.017333 c 0.429334,0 0.766667,0.276 0.766667,0.613333 v 3.588 c 0,0.337334 -0.337333,0.613334 -0.766667,0.613334 H 44.203125 c -0.337333,0 -0.613333,-0.276 -0.613333,-0.613334 v -3.588 c 0,-0.337333 0.276,-0.613333 0.613333,-0.613333 h 4.170666 V 4.7840006 h -4.170666 c -0.337333,0 -0.613333,-0.2453333 -0.613333,-0.5826666 V 0.61333405 c 0,-0.33733332 0.276,-0.61333331567078 0.613333,-0.61333331567078 h 13.002666 c 0.429334,0 0.766667,0.27599999567078 0.766667,0.61333331567078 V 4.201334 c 0,0.3373333 -0.337333,0.5826666 -0.766667,0.5826666 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.66666603px;font-family:Farray;-inkscape-font-specification:Farray;letter-spacing:0px"
+       id="path3768"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 61.678331,0.06133407 71.70633,10.089334 81.73433,0.06133407 V 25.790667 c 0,0.337333 -0.245333,0.613333 -0.582666,0.613333 h -3.526667 c -0.337333,0 -0.613333,-0.276 -0.613333,-0.613333 v -14.352 L 71.70633,16.744 66.400997,11.438667 v 14.352 c 0,0.337333 -0.245333,0.613333 -0.582666,0.613333 h -3.557334 c -0.306666,0 -0.582666,-0.276 -0.582666,-0.613333 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.66666603px;font-family:Farray;-inkscape-font-specification:Farray;letter-spacing:0px"
+       id="path3770"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 92.573081,26.373334 c 2.974666,0.03067 5.949333,-0.950667 8.402669,-2.974667 5.58133,-4.6 6.40933,-12.910666 1.77866,-18.5226664 -2.576,-3.1586666 -6.378663,-4.81466653 -10.181329,-4.81466653 h -6.562667 c -0.337333,0 -0.613333,0.27599999 -0.613333,0.58266665 V 25.637334 c 0,0.429333 0.276,0.736 0.613333,0.736 z M 99.074414,7.9120006 C 102.01841,11.469334 101.49708,16.774667 97.90908,19.688 c -1.533333,1.288 -3.434666,1.932 -5.335999,1.901334 h -2.392 v -16.744 h 2.392 c 2.422666,0 4.845333,1.0426666 6.501333,3.0666666 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.66666603px;font-family:Farray;-inkscape-font-specification:Farray;letter-spacing:0px"
+       id="path3772"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 125.07639,16.192 c 0,-0.337333 -0.276,-0.582666 -0.61333,-0.582666 h -2.024 l -3.74134,-14.99599995 -0.0307,-0.15333333 c -0.092,-0.21466666 -0.30667,-0.36799999 -0.552,-0.36799999 h -4.01734 c -0.24533,0 -0.46,0.15333333 -0.552,0.36799999 l -0.0307,0.184 -6.22534,24.87066628 c 0,0.03067 0,0.06133 -0.0307,0.06133 v 0.122667 c 0,0.368 0.276,0.644 0.58266,0.644 h 3.71067 c 0.24533,0 0.49067,-0.184 0.552,-0.429333 0,-0.03067 0.0307,-0.06133 0.0307,-0.06133 l 1.34933,-5.489333 h 5.244 l 1.34933,5.458667 0.0307,0.092 c 0.092,0.245333 0.30667,0.429333 0.552,0.429333 h 3.71067 c 0.33733,0 0.58266,-0.276 0.58266,-0.644 v -0.06133 l -0.0307,-0.153334 -1.288,-5.121333 h 0.828 c 0.33733,0 0.61333,-0.245333 0.61333,-0.582667 z m -10.396,-0.582666 1.44133,-5.6733335 1.41067,5.6733335 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.66666603px;font-family:Farray;-inkscape-font-specification:Farray;letter-spacing:0px"
+       id="path3774"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 143.451,25.790667 c 0,0.337333 -0.33733,0.582667 -0.76667,0.582667 h -13.00266 c -0.33734,0 -0.61334,-0.245334 -0.61334,-0.582667 V 0.76666739 c 0,-0.39866666 0.276,-0.73599999 0.61334,-0.73599999 h 3.588 c 0.33733,0 0.58266,0.33733333 0.58266,0.73599999 V 21.589334 h 8.832 c 0.42934,0 0.76667,0.276 0.76667,0.613333 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.66666603px;font-family:Farray;-inkscape-font-specification:Farray;letter-spacing:0px"
+       id="path3776"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 161.18016,25.790667 c 0,0.337333 -0.33734,0.582667 -0.76667,0.582667 h -13.00267 c -0.33733,0 -0.61333,-0.245334 -0.61333,-0.582667 V 0.76666739 c 0,-0.39866666 0.276,-0.73599999 0.61333,-0.73599999 h 3.588 c 0.33734,0 0.58267,0.33733333 0.58267,0.73599999 V 21.589334 h 8.832 c 0.42933,0 0.76667,0.276 0.76667,0.613333 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.66666603px;font-family:Farray;-inkscape-font-specification:Farray;letter-spacing:0px"
+       id="path3778"
+       inkscape:connector-curvature="0" />
+  </g>
 </svg>
