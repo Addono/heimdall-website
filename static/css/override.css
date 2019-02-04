@@ -13,6 +13,10 @@
   background-color: #43454d;
 }
 
+.main-menu>ul>li>a {
+  color: #43454d;
+}
+
 .main-menu>ul>li>a:hover {
   background: #43454d;
 }
