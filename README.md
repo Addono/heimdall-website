@@ -11,3 +11,10 @@ git clone --recurse-submodules https://gitlab.com/heimdall-surveillance/heimdall
 cd heimdall-surveillance.gitlab.io
 hugo server
 ```
+
+If you also want to work on the theme then make sure that it is on one of the branches, e.g. when working on `master`:
+```bash
+cd themes/hugo-hero-theme
+git checkout master
+cd ../../
+```
