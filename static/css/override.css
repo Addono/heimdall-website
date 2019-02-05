@@ -1,26 +1,30 @@
 .hero-image {
-  background-color: #43454d;
-  opacity: .7;
+    background-color: #43454d;
+    opacity: .7;
 }
 
 .hamburger .hamburger-inner,
 .hamburger .hamburger-inner::before,
 .hamburger .hamburger-inner::after {
-  background-color: #43454d;
+    background-color: #43454d;
 }
 
 .main-menu-mobile {
-  background-color: #43454d;
+    background-color: #43454d;
 }
 
-.main-menu>ul>li>a {
-  color: #43454d;
+.main-menu > ul > li > a,
+.intro h1,
+.text-primary {
+    color: #43454d !important;
 }
 
-.main-menu>ul>li>a:hover {
-  background: #43454d;
+.main-menu > ul > li > a:hover,
+.main-menu > ul > li.active > a,
+.button {
+    background: #43454d;
 }
 
 h1 {
-  font-weight: 600;
+    font-weight: 600;
 }
