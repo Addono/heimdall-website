@@ -7,6 +7,8 @@ variables:
 test:
   script:
   - hugo
+  artifacts:
+    paths: [public]
   except:
   - master
 
