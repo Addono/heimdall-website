@@ -257,7 +257,7 @@ theme = "hugo-icon"
 [params.contact]
   enable = true
   title = "Get In Touch"
-  message = "Do you have feedback on this website? Or do you want to help us on our journy? Feel free to reach out using the form below, or send us a message using the contact details of each of our <a href='#' class='fh5co-content-nav' data-nav-section='team'>team members</a>."
+  message = "Do you have feedback on this website? Or do you want to help us on our journey? Feel free to reach out using the form below, or send us a message using the contact details of each of our <a href='#' class='fh5co-content-nav' data-nav-section='team'>team members</a>."
   name_placeholder = "Your name"
   email_placeholder = "Your email"
   email_disclaimer = "We'll never share your email with anyone else."
