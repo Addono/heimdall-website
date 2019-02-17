@@ -224,7 +224,7 @@ theme = "hugo-icon"
 
   [[params.team.item]]
     name = "Adriaan Knapen"
-    position = "Software Architect"
+    position = "Software Architect | Cloud Specialist"
     description = "YES... He is boosted by quark and caffeine. Born to code."
     img = "images/team/adriaan.jpg"
     email = "hi@aknapen.nl"
