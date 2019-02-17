@@ -1,5 +1,5 @@
 # Main config file for icon theme.
-baseURL = "/"
+baseURL = "./"
 languageCode = "en-us"
 title = "Heimdall"
 theme = "hugo-icon"
