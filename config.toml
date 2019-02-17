@@ -179,7 +179,7 @@ theme = "hugo-icon"
 
   [[params.team.item]]
       name = "Federico Macchi"
-      position = "Software engineer | Designer"
+      position = "Software Engineer | Designer"
       description = "I always get confused by Halloween and Christmas. Why? Because 31 Oct = 25 Dec"
       img = "images/team/federico.jpg"
       email = "federico.macchi@aalto.fi"
