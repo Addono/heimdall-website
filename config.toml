@@ -64,39 +64,40 @@ theme = "hugo-icon"
 # Services section
 [params.services]
   enable = true
-  video = true
+  video = false
   vidlink = "https://vimeo.com/channels/staffpicks/93951774"
   title = "Contribute"
-  description = ""
+  description = "We cannot fight our fight againgst forest fires alone, hence we are constantly looking for partners to aid us on our quest."
+
+  [[params.services.item]]
+    icon = "icon-fire"
+    title = "Fire Fighters"
+    description = "Our main goal is to aid fire fighters in their work of combatting forest fires. Hence we highly value your hands on experience and expertice."
+
+  [[params.services.item]]
+    icon = "icon-clipboard2"
+    title = "Policy Makers"
+    description = "In nearly all countries is the government the main driver behind fighting forest fires, thus we are always interested to hear about the projects where policy maker's are working on."
+
+  [[params.services.item]]
+    icon = "icon-users"
+    title = "Everyone Else"
+    description = "Are you able to help us in any way, however you did not recognize yourself in any of the other categories?"
 
 #  [[params.services.item]]
-#    icon = "icon-present"
-#    title = "Web Development"
-#    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
-#
-#  [[params.services.item]]
 #    icon = "icon-eye"
-#    title = "Retina Ready"
+#    title = "Private Land Owners"
 #    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
 #
 #  [[params.services.item]]
-#    icon = "icon-paper-plane"
-#    title = "Light Speed"
+#    icon = "icon-briefcase"
+#    title = "Competitors"
 #    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
 #
-#  [[params.services.item]]
-#    icon = "icon-pencil"
-#    title = "Copyrighting"
-#    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
 #
 #  [[params.services.item]]
-#    icon = "icon-rocket"
-#    title = "Load Fast"
-#    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
-#
-#  [[params.services.item]]
-#    icon = "icon-support"
-#    title = "Customer Support"
+#    icon = "icon-lab"
+#    title = "Researchers"
 #    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
 
 # Work section
@@ -267,7 +268,7 @@ theme = "hugo-icon"
 # Note here that the copyright and attribution statement must remain as part of the license agreement. If you wish to remove this, please contact freehtml5 and pay for a professional license.
 [params.footer]
   enable = true
-  note = "<p><small>Template designed by <a href='https://freehtml5.co/' target='_blank'>FreeHTML5.co</a></small></p>"
+  note = "<p>© Heimdall, 2019<br><small>Template designed by <a href='https://freehtml5.co/' target='_blank'>FreeHTML5.co</a></small></p>"
 #  github = "#"
 #  twitter = "#"
 #  facebook = "#"
