@@ -3,7 +3,7 @@
 ## Setup development environment
 This setup assumes you have Hugo installed
 
-```bash
+```sh
 # Clone the website repo:
 git clone --recurse-submodules https://gitlab.com/heimdall-surveillance/heimdall-surveillance.gitlab.io.git
 
@@ -12,9 +12,9 @@ cd heimdall-surveillance.gitlab.io
 hugo server
 ```
 
-If you also want to work on the theme then make sure that it is on one of the branches, e.g. when working on `master`:
-```bash
-cd themes/hugo-hero-theme
+If you also want to work on the theme then make sure that the `HEAD` is on one of the branches, e.g. when working on `master`:
+```sh
+cd themes/hugo-icon
 git checkout master
 cd ../../
 ```
