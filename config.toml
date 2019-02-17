@@ -225,7 +225,7 @@ theme = "hugo-icon"
   [[params.team.item]]
     name = "Adriaan Knapen"
     position = "Software Architect | Cloud Specialist"
-    description = "YES... He is boosted by quark and caffeine. Born to code."
+    description = "Discovered that one gets super powers when running on just quark and caffeine. Born to code - they say."
     img = "images/team/adriaan.jpg"
     email = "hi@aknapen.nl"
 #    facebook = "https://www.facebook.com/adriaan.knapen"
