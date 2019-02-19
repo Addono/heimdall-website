@@ -183,7 +183,7 @@ theme = "hugo-icon"
   [[params.team.item]]
     name = "Olga Kornilova"
     position = "Creative Technologist | Corporate Affairs"
-    description = "With no alarms and no surprises"
+    description = "With no alarms and no surprises."
     img = "images/team/olga.jpg"
     email = "olga.kornilova@aalto.fi"
     linkedin = "https://linkedin.com/in/olgakornilova"
