@@ -1,43 +1,242 @@
-baseURL = "/"
+# Main config file for icon theme.
+baseURL = "./"
 languageCode = "en-us"
 title = "Heimdall"
-# themesDir = "themes"
-theme = "hugo-hero-theme"
+theme = "hugo-icon"
 
+# Metadata
 [params]
-  google_analytics_id=""
+  author = "Heimdall"
+  description = "Building innovative solutions to combat the increasing severity of wildfires."
 
-  [params.homepage_meta_tags]
-    meta_description = "HEIMDALL"
-    meta_og_title = "Quark"
-    meta_og_type = "website"
-    meta_og_url = "https://hugo-hero.netlify.com"
-    meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png"
-    meta_og_description = "HEIMDALL"
-    meta_twitter_card = "summary"
-#    meta_twitter_site = "@zerostaticio"
-#    meta_twitter_creator = "@zerostaticio"
+# Hero section (from here on is for icon theme)
+[params.hero]
+  img = "images/forest_fire_darkened_1200x1200.jpg"
+  title = "Heimdall"
+  description = "Building innovative solutions to combat the increasing severity of wildfires."
 
-#[[menu.main]]
-#	name = "Goals"
-#	url = "/services/"
-#    weight = 1
+# Navigation section
+[params.nav]
+  mission = "Our Mission"
+  services = "Contribute"
+  team = "The Team"
+  contact = "Get In Touch"
+  # Include logo instead if HOME:
+   logo = "images/logo.svg"
 
-#[[menu.main]]
-#    name = "Work"
-#    url = "/work/"
-#    weight = 2
-#
-#[[menu.main]]
-#    name = "About"
-#    url = "/about/"
+# Mission section
+[params.mission]
+  enable = true
+
+  [params.mission.images]
+    enable = true
+
+    [[params.mission.images.list]]
+      img = "images/forest_fire_cropped_640x480.jpg"
+    [[params.mission.images.list]]
+      img = "images/smokey_forest_fire_fighters_640x480.jpg"
+    [[params.mission.images.list]]
+      img = "images/greek_fires_25_aug_2007_578x600.jpg"
+    [[params.mission.images.list]]
+      img = "images/home_burned_down_800x480.jpg"
+
+  [[params.mission.item]]
+    weight = 1
+    name = "our-mission"
+    title = "Our Mission"
+    subtitle = "In our team we believe that forest fires are a continuously growing problem. Presently employed solutions to monitor vast forest areas are lacking and expensive.\n\nIn Heimdall we work everyday to tackle this problem in a cheaper, more effective and functional way."
+    description = "<p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
+
+  [[params.mission.item]]
+    weight = 2
+    name = "problem"
+    title = "The Problem"
+    subtitle = "The serverity of wildfires has been increasing over the past decades. Giving rise to increased loss of life, damage to property and destruction of nature."
+    description = "<p><a href='https://docs.google.com/presentation/d/1G46i38oxlTM2dYsDsEu2cl5HQ7aXCqN1mRG4OKX69i4/edit?usp=sharing' class='btn btn-primary btn-outline' target='_blank'>Read More</a></p>"
+
+#  [[params.mission.item]]
 #    weight = 3
+#    name = "strategy"
+#    title = "Strategy"
+#    subtitle = "Magnam iste obcaecati illo laboriosam amet. Dignissimos sed quis voluptatum corporis adipisci amet."
+#    description = "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio dolore illum expedita placeat debitis, dignissimos obcaecati et modi. Possimus id dicta consequuntur veritatis, reiciendis at expedita voluptate sint distinctio eligendi!</p><ul class='checked'><li>Web Development</li><li>User Interface Experts</li><li>Pixel Perfect Design</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
 
-[[menu.main]]
-    name = "Contact"
-    url = "/contact/"
-    weight = 4
+# Services section
+[params.services]
+  enable = true
+  video = false
+  vidlink = "https://vimeo.com/channels/staffpicks/93951774"
+  title = "Contribute"
+  description = "We cannot fight our fight againgst forest fires alone, hence we are constantly looking for partners to aid us on our quest."
 
-[permalinks]
-  post = "/:year/:month/:day/:slug/"
-  pages = "/:filename/"
+  [[params.services.item]]
+    icon = "icon-fire"
+    title = "Fire Fighters"
+    description = "Our main goal is to aid fire fighters in their work of combatting forest fires. Hence we highly value your hands on experience and expertice."
+
+  [[params.services.item]]
+    icon = "icon-clipboard2"
+    title = "Policy Makers"
+    description = "In nearly all countries is the government the main driver behind fighting forest fires, thus we are always interested to hear about the projects where policy maker's are working on."
+
+  [[params.services.item]]
+    icon = "icon-users"
+    title = "Everyone Else"
+    description = "Are you able to help us in any way, however you did not recognize yourself in any of the other categories?"
+
+#  [[params.services.item]]
+#    icon = "icon-eye"
+#    title = "Private Land Owners"
+#    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+#
+#  [[params.services.item]]
+#    icon = "icon-briefcase"
+#    title = "Competitors"
+#    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+#
+#
+#  [[params.services.item]]
+#    icon = "icon-lab"
+#    title = "Researchers"
+#    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+
+# Work section
+[params.work]
+  enable = false
+
+  [[params.work.item]]
+    title = "Consectetur adipisicing"
+    subtitle = "Web Design"
+    img = "images/img_1.jpg"
+
+  [[params.work.item]]
+    title = "Consectetur adipisicing"
+    subtitle = "Web Design"
+    img = "images/img_2.jpg"
+
+  [[params.work.item]]
+    title = "Consectetur adipisicing"
+    subtitle = "Web Design"
+    img = "images/img_3.jpg"
+
+  [[params.work.item]]
+    title = "Consectetur adipisicing"
+    subtitle = "Web Design"
+    img = "images/img_2.jpg"
+
+  [[params.work.item]]
+    title = "Consectetur adipisicing"
+    subtitle = "Web Design"
+    img = "images/img_3.jpg"
+
+  [[params.work.item]]
+    title = "Consectetur adipisicing"
+    subtitle = "Web Design"
+    img = "images/img_2.jpg"
+
+  [[params.work.item]]
+    title = "Consectetur adipisicing"
+    subtitle = "Web Design"
+    img = "images/img_3.jpg"
+
+  [[params.work.item]]
+    title = "Consectetur adipisicing"
+    subtitle = "Web Design"
+    img = "images/img_4.jpg"
+
+# Team section
+[params.team]
+  enable = true
+  title = "Meet The Team"
+  description = "Get a peak behind the curtains and get in touch with the driving force behind Heimdall!"
+
+  [[params.team.item]]
+    name = "Andrés Prieto Yanes"
+    position = "CEO"
+    description = "Embedded Software and Electronics Engineer. Passion for prototyping"
+    img = "images/team/andres.jpg"
+    email = "andresprietoyanes@gmail.com"
+    linkedin = "https://www.linkedin.com/in/andrés-prieto-yanes-518998a8/"
+    github = "https://github.com/andrespy"
+    telephone = "+34636916397"
+    whatsapp = "https://web.whatsapp.com/send?phone=34636916397"
+
+[[params.team.item]]
+    name = "Gijs Wissing"
+    position = "Lead Engineering | Aerospace Specialist"
+    description = "We got this!<br><br><br>"
+    img = "images/team/gijs.jpg"
+    email = "gijs.wissi@gmail.com"
+    linkedin = "https://www.linkedin.com/in/gijs-wissing/"
+    telephone = "+31644257862"
+    whatsapp = "https://web.whatsapp.com/send?phone=31644257862"
+
+  [[params.team.item]]
+    name = "Federico Macchi"
+    position = "Software Engineer | Designer"
+    description = "I always get confused by Halloween and Christmas. Why? Because 31 Oct = 25 Dec"
+    img = "images/team/federico.jpg"
+    email = "federico.macchi@aalto.fi"
+    linkedin = "https://www.linkedin.com/in/federico-macchi-b3032a172/"
+    github = "https://github.com/FedeMITIC"
+
+  [[params.team.item]]
+    name = "Minh-Hoàng Nguyen"
+    position = "Marketing and Finance Lead"
+    description = "Our customers success is our success."
+    img = "images/team/hoang.jpg"
+    email = "hoangnym94@gmail.com"
+    linkedin = "https://www.linkedin.com/in/minhhoang-nguyen/"
+    telephone = "+4917640568989"
+    whatsapp = "https://web.whatsapp.com/send?phone=4917640568989"
+
+  [[params.team.item]]
+    name = "Adriaan Knapen"
+    position = "Software Architect | Cloud Specialist"
+    description = "Discovered that one gets super powers when running on just quark and caffeine.<br>Born to code - they say."
+    img = "images/team/adriaan.jpg"
+    email = "hi@aknapen.nl"
+#    facebook = "https://www.facebook.com/adriaan.knapen"
+    linkedin = "https://linkedin.com/in/adriaan-knapen"
+    github = "https://github.com/Addono"
+    telephone = "+31640410001"
+    whatsapp = "https://web.whatsapp.com/send?phone=31640410001"
+#    telegram = "https://telegram.me/Addono" # Not supported as of yet
+
+#  [[params.team.item]]
+#        name = "John Doe"
+#        position = "Bla bla"
+#        description = "Si! Description here"
+#        img = "images/team/my-image.jpg"
+#        email = ""
+#        facebook = "#"
+#        linkedin = "#"
+#        twitter = "#"
+#        dribbble = "#"
+#        instagram = "#"
+#        github = "#"
+#        telephone = "#"
+#        whatsapp = "#"
+
+# Contact section
+[params.contact]
+  enable = true
+  title = "Get In Touch"
+  message = "Do you have feedback on this website? Or do you want to help us on our journey? Feel free to reach out using the form below, or send us a message using the contact details of each of our <a href='#' class='fh5co-content-nav' data-nav-section='team'>team members</a>."
+  name_placeholder = "Your name"
+  email_placeholder = "Your email"
+  email_disclaimer = "We'll never share your email with anyone else."
+  message_placeholder = "Enter your message here."
+  button_text = "Submit"
+
+# Footer section
+# Note here that the copyright and attribution statement must remain as part of the license agreement. If you wish to remove this, please contact freehtml5 and pay for a professional license.
+[params.footer]
+  enable = true
+  note = "<p>We ❤️ open-source. You can find this website <a href='https://gitlab.com/heimdall-surveillance/heimdall-surveillance.gitlab.io'>here</a>!<br><small>Template designed by <a href='https://freehtml5.co/' target='_blank'>FreeHTML5.co</a></small></p>"
+#  github = "#"
+#  twitter = "#"
+#  facebook = "#"
+#  vine = "#"
+#  linkedin = "#"
+#  instagram = "#"
