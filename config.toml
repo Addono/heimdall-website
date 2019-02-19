@@ -191,21 +191,6 @@ theme = "hugo-icon"
     whatsapp = "https://web.whatsapp.com/send?phone=4917640568989"
 
   [[params.team.item]]
-    name = "John Doe"
-    position = "Bla bla"
-    description = "Si! Description here"
-    img = "images/person4.jpg"
-    email = ""
-    facebook = "#"
-    linkedin = "#"
-    twitter = "#"
-    dribbble = "#"
-    instagram = "#"
-    github = "#"
-    telephone = "#"
-    whatsapp = "#"
-
-  [[params.team.item]]
     name = "Adriaan Knapen"
     position = "Software Architect | Cloud Specialist"
     description = "Discovered that one gets super powers when running on just quark and caffeine.<br>Born to code - they say."
