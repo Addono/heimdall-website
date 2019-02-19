@@ -181,6 +181,15 @@ theme = "hugo-icon"
     github = "https://github.com/FedeMITIC"
 
   [[params.team.item]]
+    name = "Olga Kornilova"
+    position = "Creative Technologist | Corporate Affairs"
+    description = "With no alarms and no surprises"
+    img = "images/team/olga.jpg"
+    email = "olga.kornilova@aalto.fi"
+    linkedin = "https://linkedin.com/in/olgakornilova"
+    whatsapp = "https://web.whatsapp.com/send?phone=358468110510"
+
+  [[params.team.item]]
     name = "Minh-Hoàng Nguyen"
     position = "Marketing and Finance Lead"
     description = "Our customers success is our success."
