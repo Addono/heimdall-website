@@ -172,13 +172,13 @@ theme = "hugo-icon"
     whatsapp = "https://web.whatsapp.com/send?phone=31644257862"
 
   [[params.team.item]]
-    name = "Federico Macchi"
-    position = "Software Engineer | Designer"
-    description = "I always get confused by Halloween and Christmas. Why? Because 31 Oct = 25 Dec"
-    img = "images/team/federico.jpg"
-    email = "federico.macchi@aalto.fi"
-    linkedin = "https://www.linkedin.com/in/federico-macchi-b3032a172/"
-    github = "https://github.com/FedeMITIC"
+      name = "Federico Macchi"
+      position = "Software Engineer | Designer"
+      description = "I always get confused by Halloween and Christmas. Why? Because 31 Oct = 25 Dec"
+      img = "images/team/federico.jpg"
+      email = "federico.macchi@aalto.fi"
+      linkedin = "https://www.linkedin.com/in/federico-macchi94"
+      github = "https://github.com/FedeMITIC"
 
   [[params.team.item]]
     name = "Olga Kornilova"
