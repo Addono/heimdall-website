@@ -47,12 +47,36 @@ theme = "hugo-icon"
     subtitle = "In our team we believe that forest fires are a continuously growing problem. Presently employed solutions to monitor vast forest areas are lacking and expensive.\n\nIn Heimdall we work everyday to tackle this problem in a cheaper, more effective and functional way."
     description = "<p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
 
+    [[params.mission.item.image]]
+      url = "images/forest_fire_cropped_640x480.jpg"
+
+    [[params.mission.item.image]]
+      url = "images/smokey_forest_fire_fighters_640x480.jpg"
+
+    [[params.mission.item.image]]
+      url = "images/greek_fires_25_aug_2007_578x600.jpg"
+
+    [[params.mission.item.image]]
+      url = "images/home_burned_down_800x480.jpg"
+
   [[params.mission.item]]
     weight = 2
     name = "problem"
     title = "The Problem"
     subtitle = "The serverity of wildfires has been increasing over the past decades. Giving rise to increased loss of life, damage to property and destruction of nature."
     description = "<p><a href='https://docs.google.com/presentation/d/1G46i38oxlTM2dYsDsEu2cl5HQ7aXCqN1mRG4OKX69i4/edit?usp=sharing' class='btn btn-primary btn-outline' target='_blank'>Read More</a></p>"
+
+    [[params.mission.item.image]]
+      url = "images/forest_fire_cropped_640x480.jpg"
+
+    [[params.mission.item.image]]
+      url = "images/smokey_forest_fire_fighters_640x480.jpg"
+
+    [[params.mission.item.image]]
+      url = "images/greek_fires_25_aug_2007_578x600.jpg"
+
+    [[params.mission.item.image]]
+      url = "images/home_burned_down_800x480.jpg"
 
 #  [[params.mission.item]]
 #    weight = 3
