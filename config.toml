@@ -88,8 +88,8 @@ theme = "hugo-icon"
 # Services section
 [params.services]
   enable = true
-  video = false
-  vidlink = "https://vimeo.com/channels/staffpicks/93951774"
+  video = true
+  vidlink = "https://www.youtube.com/watch?v=hX6j1sz3pOk"
   title = "Contribute"
   description = "We cannot fight our fight againgst forest fires alone, hence we are constantly looking for partners to aid us on our quest."
 
