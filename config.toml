@@ -67,16 +67,17 @@ theme = "hugo-icon"
     description = "<p><a href='https://docs.google.com/presentation/d/1G46i38oxlTM2dYsDsEu2cl5HQ7aXCqN1mRG4OKX69i4/edit?usp=sharing' class='btn btn-primary btn-outline' target='_blank'>Read More</a></p>"
 
     [[params.mission.item.image]]
-      url = "images/forest_fire_cropped_640x480.jpg"
+      url = "images/forest_fire_smoke_conservation_640x417.jpg"
 
     [[params.mission.item.image]]
-      url = "images/smokey_forest_fire_fighters_640x480.jpg"
+      url = "images/forest_fire_wildfire_blaze_smoke_640x480.jpg"
 
     [[params.mission.item.image]]
-      url = "images/greek_fires_25_aug_2007_578x600.jpg"
+      url = "images/forest_fire_sun_640x400.jpg"
 
     [[params.mission.item.image]]
-      url = "images/home_burned_down_800x480.jpg"
+      url = "images/yellowstone_forest_fire_640x400.jpg"
+
 
 #  [[params.mission.item]]
 #    weight = 3
