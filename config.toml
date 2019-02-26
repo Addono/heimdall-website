@@ -41,7 +41,6 @@ theme = "hugo-icon"
       img = "images/home_burned_down_800x480.jpg"
 
   [[params.mission.item]]
-    weight = 1
     name = "our-mission"
     title = "Our Mission"
     subtitle = "In our team we believe that forest fires are a continuously growing problem. Presently employed solutions to monitor vast forest areas are lacking and expensive.\n\nIn Heimdall we work everyday to tackle this problem in a cheaper, more effective and functional way."
@@ -60,7 +59,6 @@ theme = "hugo-icon"
       url = "images/home_burned_down_800x480.jpg"
 
   [[params.mission.item]]
-    weight = 2
     name = "problem"
     title = "The Problem"
     subtitle = "The serverity of wildfires has been increasing over the past decades. Giving rise to increased loss of life, damage to property and destruction of nature."
