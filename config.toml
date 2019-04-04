@@ -21,7 +21,7 @@ theme = "hugo-icon"
   services = "Contribute"
   team = "The Team"
   contact = "Get In Touch"
-  # Include logo instead if HOME:
+  # Include logo instead of HOME:
    logo = "images/logo.svg"
 
 # Mission section
