@@ -174,34 +174,14 @@ theme = "hugo-icon"
   description = "Get a peak behind the curtains and get in touch with the driving force behind Heimdall!"
 
   [[params.team.item]]
-    name = "Andrés Prieto Yanes"
-    position = "CEO"
-    description = "Embedded Software and Electronics Engineer. Passion for prototyping"
-    img = "images/team/andres.jpg"
-    email = "andresprietoyanes@gmail.com"
-    linkedin = "https://www.linkedin.com/in/andrés-prieto-yanes-518998a8/"
-    github = "https://github.com/andrespy"
-    telephone = "+34636916397"
-    whatsapp = "https://web.whatsapp.com/send?phone=34636916397"
-
-[[params.team.item]]
     name = "Gijs Wissing"
     position = "Lead Engineering | Aerospace Specialist"
-    description = "We got this!<br><br><br>"
+    description = "We got this!<br><br><br><br>"
     img = "images/team/gijs.jpg"
     email = "gijs.wissi@gmail.com"
     linkedin = "https://www.linkedin.com/in/gijs-wissing/"
     telephone = "+31644257862"
     whatsapp = "https://web.whatsapp.com/send?phone=31644257862"
-
-  [[params.team.item]]
-      name = "Federico Macchi"
-      position = "Software Engineer | Designer"
-      description = "I always get confused by Halloween and Christmas. Why? Because 31 Oct = 25 Dec"
-      img = "images/team/federico.jpg"
-      email = "federico.macchi@aalto.fi"
-      linkedin = "https://www.linkedin.com/in/federico-macchi94"
-      github = "https://github.com/FedeMITIC"
 
   [[params.team.item]]
     name = "Olga Kornilova"
@@ -211,16 +191,6 @@ theme = "hugo-icon"
     email = "olga.kornilova@aalto.fi"
     linkedin = "https://linkedin.com/in/olgakornilova"
     whatsapp = "https://web.whatsapp.com/send?phone=358468110510"
-
-  [[params.team.item]]
-    name = "Minh-Hoàng Nguyen"
-    position = "Marketing and Finance Lead"
-    description = "Our customers success is our success.<br><br><br>"
-    img = "images/team/hoang.jpg"
-    email = "hoangnym94@gmail.com"
-    linkedin = "https://www.linkedin.com/in/minhhoang-nguyen/"
-    telephone = "+4917640568989"
-    whatsapp = "https://web.whatsapp.com/send?phone=4917640568989"
 
   [[params.team.item]]
     name = "Adriaan Knapen"
