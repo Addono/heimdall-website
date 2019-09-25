@@ -170,7 +170,7 @@ theme = "hugo-icon"
 # Team section
 [params.team]
   enable = true
-  title = "Meet The Team"
+  title = "Meet The Founders"
   description = "Get a peak behind the curtains and get in touch with the driving force behind Heimdall!"
 
   [[params.team.item]]
