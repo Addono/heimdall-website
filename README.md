@@ -1,4 +1,5 @@
 # Heimdall Website
+This is the source code of Heimdall's website, see it live at [https://heimdall.ga](https://heimdall.ga).
 
 ## Setup development environment
 This setup assumes you have Hugo installed
