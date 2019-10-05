@@ -236,7 +236,7 @@ theme = "hugo-icon"
 [params.footer]
   enable = true
   note = "<p>We ❤️ open-source. You can find this website <a href='https://gitlab.com/heimdall-surveillance/heimdall-surveillance.gitlab.io'>here</a>!<br><small>Template designed by <a href='https://freehtml5.co/' target='_blank'>FreeHTML5.co</a></small></p>"
-  email = "heimdall.ff@gmail.com"
+  email = "contact@heimdall.ga"
 #  github = "#"
   twitter = "https://twitter.com/HeimdallWildfi1"
 #  facebook = "#"
