@@ -181,7 +181,7 @@ theme = "hugo-icon"
     email = "gijs@heimdall.ga"
     linkedin = "https://www.linkedin.com/in/gijs-wissing/"
     telephone = "+31644257862"
-    whatsapp = "https://web.whatsapp.com/send?phone=31644257862"
+#    whatsapp = "https://web.whatsapp.com/send?phone=31644257862"
 
   [[params.team.item]]
     name = "Olga Kornilova"
@@ -190,7 +190,7 @@ theme = "hugo-icon"
     img = "images/team/olga.jpg"
     email = "olga@heimdall.ga"
     linkedin = "https://linkedin.com/in/olgakornilova"
-    whatsapp = "https://web.whatsapp.com/send?phone=358468110510"
+#    whatsapp = "https://web.whatsapp.com/send?phone=358468110510"
 
   [[params.team.item]]
     name = "Adriaan Knapen"
@@ -202,7 +202,7 @@ theme = "hugo-icon"
     linkedin = "https://linkedin.com/in/adriaan-knapen"
     github = "https://github.com/Addono"
     telephone = "+31640410001"
-    whatsapp = "https://web.whatsapp.com/send?phone=31640410001"
+#    whatsapp = "https://web.whatsapp.com/send?phone=31640410001"
 #    telegram = "https://telegram.me/Addono" # Not supported as of yet
 
 #  [[params.team.item]]
