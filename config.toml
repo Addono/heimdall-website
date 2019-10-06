@@ -235,7 +235,7 @@ theme = "hugo-icon"
 # Note here that the copyright and attribution statement must remain as part of the license agreement. If you wish to remove this, please contact freehtml5 and pay for a professional license.
 [params.footer]
   enable = true
-  note = "<p>We ❤️ open-source. You can find this website <a href='https://gitlab.com/heimdall-surveillance/heimdall-surveillance.gitlab.io'>here</a>!<br><small>Template designed by <a href='https://freehtml5.co/' target='_blank'>FreeHTML5.co</a></small></p>"
+  note = "<p>We ❤️ open-source. You can find this website <a href='https://gitlab.com/heimdall-surveillance/heimdall-surveillance.gitlab.io'>here</a>!<br><small>Design based on an original template graciously provided by <a href='https://freehtml5.co/' target='_blank'>FreeHTML5.co</a></small></p>."
   email = "contact@heimdall.ga"
 #  github = "#"
   twitter = "https://twitter.com/HeimdallWildfi1"
