@@ -18,5 +18,8 @@ pages:
   artifacts:
     paths:
     - public
+  environment:
+    name: production
+    url: https://heimdall.ga
   only:
   - master
